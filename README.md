@@ -1,1 +1,1 @@
-# Qt-Text-editor
+# Qt-TextEditor-OpenOCRCorrect
